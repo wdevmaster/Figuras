@@ -1,4 +1,4 @@
-#MODELADO DE CLASES - Figuras
+MODELADO DE CLASES - Figuras
 ==================
 
 Para ejecutar, sigue estos pasos:
